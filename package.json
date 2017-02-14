@@ -1,0 +1,11 @@
+{
+  "name": "what-my-boss-thinks-i-do",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Lukas Knudsen Høgh",
+  "license": "ISC"
+}
